@@ -1,6 +1,6 @@
 ---
 layout:     post
-subtitle:   "第一个使用手机编辑提交的文章"
+subtitle:   "第一篇使用手机编辑提交的文章"
 date:       2021-10-22
 author:     "Miro"
 catalog: true
@@ -9,7 +9,7 @@ tags:
   - 工具
 ---
 
-## 第一个使用iphone编辑的markdown 文本
+## 第一使用手机端编辑的markdown 文本章
 ### 使用的工具
 - Taio作为markdown的移动端编辑器
 - working copy 作为提交github工具![](/img/in-post/post-markdown-editor/IMG_1.jpeg){:height="50%" width="70%"} 
