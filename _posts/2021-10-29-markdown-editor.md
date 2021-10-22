@@ -15,4 +15,4 @@ tags:
 - working copy 作为提交github工具![](/img/in-post/post-markdown-editor/IMG_1.jpeg)
 
 ### 暂存问题
-增加图片时，路径是taio应用系统内部的路径，working copy提交时，路径对不上
+~~增加图片时，路径是taio应用系统内部的路径，working copy提交时，路径对不上~~
