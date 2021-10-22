@@ -9,7 +9,7 @@ tags:
   - 工具
 ---
 
-## 第一使用手机端编辑的markdown 文本章
+## 第一次使用手机端编辑的markdown 本章
 ### 使用的工具
 - Taio作为markdown的移动端编辑器
 - working copy 作为提交github工具![](/img/in-post/post-markdown-editor/IMG_1.jpeg){:height="50%" width="70%"} 
