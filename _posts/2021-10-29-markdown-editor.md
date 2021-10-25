@@ -19,5 +19,3 @@ tags:
 
 ### 手机端markdown 编辑器试用(ios)
 #### Taio
-a = [a,b,c,d]
-b = ("wo men de hua hai you xi wang me")
