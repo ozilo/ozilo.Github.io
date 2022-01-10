@@ -17,7 +17,7 @@ tags:
 于环境，追求和谐
 于人，追求
 
-![wp2046134-chappie-wallpapers](2021-12-28-living-motto.assert/wp2046134-chappie-wallpapers.jpg)
+![wp2046134-chappie-wallpapers](2021-12-28-living-motto.assets/wp2046134-chappie-wallpapers.jpg)
 
 ## 被需要也是一种幸福
 
