@@ -13,12 +13,11 @@ tags:
 ## 内心-环境-人
 
 我们处世大概需要处理三种关系，与自己内心的关系、与环境的关系、与人的关系
-
 于内心，追求自洽
-
 于环境，追求和谐
-
 于人，追求
+
+![wp2046134-chappie-wallpapers](2021-12-28-living-motto.assert/wp2046134-chappie-wallpapers.jpg)
 
 ## 被需要也是一种幸福
 
